@@ -7,4 +7,4 @@ pl.HumanoidRootPart.CFrame = CFrame.new(Localization CFrame)
 Example CFrame:
 pl.HumanoidRootPart.CFrame = CFrame.new(304.622284, 128.34639, 1424.83582)
 
-to get Cframe use Dex
+para obter o Cframe, use Dex
